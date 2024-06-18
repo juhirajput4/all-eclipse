@@ -1,0 +1,7 @@
+12/24/22 07:01:16:PM: m1Logger: WARNING: warning message
+12/24/22 07:01:16:PM: m1Logger: INFO: info message
+12/24/22 07:01:16:PM: m1Logger: ERROR: error message
+12/24/22 07:01:16:PM: m1Logger: DEBUG: debug message
+12/24/22 07:01:16:PM: m2Logger: WARNING: warning message
+12/24/22 07:01:16:PM: m2Logger: INFO: info message
+12/24/22 07:01:16:PM: m2Logger: ERROR: error message

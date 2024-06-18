@@ -1,0 +1,10 @@
+02/13/23 08:06:40:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+02/13/23 08:06:41:PM: seleniumDriver: INFO: Element found with locator: (//input[@id='email'])[1] and  locatorType: xpath
+02/13/23 08:06:41:PM: seleniumDriver: INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+02/13/23 08:06:41:PM: seleniumDriver: INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
+02/13/23 08:06:47:PM: seleniumDriver: INFO: Element found with locator: //span[@class='caret'] and  locatorType: xpath
+02/13/23 08:06:50:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/logout'] and  locatorType: xpath
+02/13/23 08:06:55:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+02/13/23 08:06:57:PM: seleniumDriver: INFO: Element found with locator: (//input[@id='email'])[1] and  locatorType: xpath
+02/13/23 08:06:57:PM: seleniumDriver: INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+02/13/23 08:06:57:PM: seleniumDriver: INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
